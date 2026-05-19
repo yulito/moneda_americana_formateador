@@ -17,5 +17,5 @@ string **"$1.000.000,00"** o, ejemplo 2: si es en **USD** devolvera **"$1,000,00
    es el código de moneda al que queremos formatear. Es de tipo string (str)
 * **Moneda.moneda(250000, "MXN")**
 
-3) Si quieres saber todos los códigos de monedas que puedes usar puedes invocar el metodo:
+3) Si quieres saber todos los códigos de monedas que puedes usar, invocar el metodo:
 * **Moneda.tipoMoneda()**
